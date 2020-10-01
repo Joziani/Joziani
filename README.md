@@ -7,8 +7,6 @@
 
 - 📝 I regulary write articles on [Statistical Analysis, Machine Learning](Statistical Analysis, Machine Learning)
 
-- 📫 How to reach me **https://www.linkedin.com/in/joziani-mota-7a602355/**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/joziani-mota-7a602355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joziani-mota-7a602355" height="30" width="40" /></a>
