@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joziani Vieira</h1>
 <h3 align="center">A data scientist passionate about new technologies in Brazil.</h3>
 
-- 🔭 I’m currently working on [Oper Data](https://operdata.com.br/)
+- 🔭 I’m currently working on [A3Data](https://a3data.com.br/)
 
 - 🌱 I’m currently learning **other software to do statistical analysis in addition to R.**
 
