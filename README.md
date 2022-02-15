@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A3Data](https://a3data.com.br/)
 
-- 🌱 I’m currently learning **other software to do statistical analysis in addition to R.**
+- 🌱 I currently use **Python** and **R** to do analysis.
 
 - 📝 I regulary write articles on [Statistical Analysis, Machine Learning](Statistical Analysis, Machine Learning)
 
