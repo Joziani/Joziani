@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joziani Vieira</h1>
 <h3 align="center">A data scientist passionate about new technologies in Brazil.</h3>
 
-- 🔭 I’m currently working on [A3Data](https://a3data.com.br/)
-
 - 🌱 I currently use **Python** and **R** to do analysis.
 
 - 📝 I regulary write articles on [Statistical Analysis, Machine Learning](Statistical Analysis, Machine Learning)
