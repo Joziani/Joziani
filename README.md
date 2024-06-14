@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joziani Vieira</h1>
 <h3 align="center">A data scientist passionate about new technologies in Brazil.</h3>
 
-- 🌱 I currently use **Python** and **R** to do analysis.
-
-- 📝 I regulary write articles on Statistical Analysis, Machine Learning and AI.
+- 🌱 I currently use **Python** and **R** to do analysis and models.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
