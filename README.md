@@ -3,7 +3,7 @@
 
 - 🌱 I currently use **Python** and **R** to do analysis.
 
-- 📝 I regulary write articles on [Statistical Analysis, Machine Learning](Statistical Analysis, Machine Learning)
+- 📝 I regulary write articles on Statistical Analysis, Machine Learning and AI.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
