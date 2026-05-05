@@ -8,9 +8,10 @@ Minhas principais habilidades são: R, Python, Spark, AWS, Azure, Análises Esta
 Além, de ser movida a pensar e me orientar de acordo com dados, extraindo valor, para converter, os mesmos, em conhecimento para auxiliar na tomada de decisão.
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/joziani-mota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joziani-mota-7a602355" height="25" width="30" /></a>
-<a href="https://kaggle.com/jozianivieira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jozianivieira" height="25" width="30" /></a>
+<h4 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/joziani-mota" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" height="25" width="30" /></a>
+<p> </p>
+<a href="https://kaggle.com/jozianivieira" target="blank"><img align="center" src="https://scolary.com/images/tools/kaggle/icon.svg" alt="jozianivieira" height="25" width="30" /></a>
 </p>
 
 
